@@ -15,4 +15,4 @@ A summary for Kingdee K3loud PlugIn that I used to write
 >7.[Web Api]()
 
 ## Notes
-Because of my limited coding capacity,
+Because of my limited coding capacity, it is inevitable that there is something wrong. I hope everyone can correct me.
