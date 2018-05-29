@@ -13,3 +13,6 @@ A summary for Kingdee K3loud PlugIn that I used to write
 >6.[报表插件]()
 
 >7.[Web Api]()
+
+## Notes
+Because of my limited coding capacity,
