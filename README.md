@@ -1,5 +1,5 @@
 # K3CloudPlugIn
-A summary for Kingdee K3loud PlugIn that I used to write
+A summary for Kingdee K3Cloud PlugIn that I used to write
 * 1.[表单插件]()
 * 2.[列表插件]()
 * 3.[操作插件]()
